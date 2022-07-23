@@ -6,4 +6,6 @@ An simple working windows utility that makes your computer less crapy
 * REMADE THE FORM DESIGN  
 * NOW YOU CAN CLOSE THE TOOL WITH ALT+F4 KEYS COMBO OR JUST CLOSE WITH POWERSHELL  
 
-# TRUSTED https://www.virustotal.com/gui/file/114dcaa920436f064ae8f68085c478e2f84010f9cf9c570b798f6e8e52d0784e?nocache=1
+# TRUSTED 
+
+https://www.virustotal.com/gui/file/0ad4cb5648469edf64ca19200e481ce27e4e28890e52e072e0e61ab579e6a984?nocache=1
